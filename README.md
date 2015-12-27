@@ -9,7 +9,7 @@ The report can be assessed from the R Markdown and HTML files found in this dire
 
 2. HTML             : Project_Writeup.html
 
-*** to access and view the HTML file from browser, please access the following URL:\n
+*** to access and view the HTML file from browser, please access the following URL:
 http://raynernyc.github.io/
 
 
